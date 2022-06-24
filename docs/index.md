@@ -1,2 +1,2 @@
 
-## Hello J-easy-hooks!
+## Hello simpler-hooks!
