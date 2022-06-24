@@ -1,4 +1,4 @@
-# easy-hooks
+# J-easy-hooks
 
 ## Getting Started
 
